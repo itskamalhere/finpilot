@@ -1,0 +1,32 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary test logs or scratch outputs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.test-artifacts/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build and test output
+dist/
+coverage/
+
+# General logs
+*.log
