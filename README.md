@@ -6,7 +6,7 @@ FinPilot is a modern personal finance dashboard designed to make tracking income
 
 ## Live Demo
 
-[Open FinPilot](YOUR_DEPLOYED_WEBSITE_URL)
+[Open FinPilot](https://finpilot-three-ecru.vercel.app/)
 
 > Replace the placeholder with the verified live website URL after deployment.
 
